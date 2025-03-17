@@ -1,6 +1,7 @@
 "use client";
 import React, { useTransition, useState } from "react";
 //import Image from "next/image";
+import Link from "next/link";
 import TabButton from "./TabButton";
 
 const TAB_DATA = [
@@ -110,7 +111,9 @@ const AboutSection = () => {
             applications utilizing the latest frameworks and languages including
             Next.JS, Java, and Python. I also have knowledge in Google Cloud,
             Generative AI technologies and setting up development environments
-            with Jenkins for a collaborative session and growth.
+            with Jenkins for a collaborative session and growth. Be sure to
+            check out some of my designs{" "}
+            <Link href="https://angulardesigns-aaa7c.web.app/">here.</Link>
           </p>
           <div className="flex flex-row justify-start mt-8">
             <TabButton
