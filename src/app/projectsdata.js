@@ -99,4 +99,26 @@ export const projectsData = [
     gitUrl: "https://github.com/jamesb97/PDFScanner",
     previewUrl: "https://vimeo.com/605873299",
   },
+  {
+    id: 10,
+    title: "Next.JS Shopify",
+    description:
+      "Online E-commerce website targeted for sellers looking to sell their latest fashion trends and accessories. Built with the latest Next.JS libraries, Tailwind.CSS, and TypeScript.",
+    image:
+      "https://firebasestorage.googleapis.com/v0/b/angularportfolio-71eaa.appspot.com/o/nextjshopify.png?alt=media&token=17010834-557b-4814-bfe7-728c9dd70c69",
+    tag: ["All", "Web"],
+    gitUrl: "/",
+    previewUrl: "https://nextjs-shopify-seven.vercel.app/",
+  },
+  {
+    id: 11,
+    title: "Meditation App",
+    description:
+      "A mobile app for meditating whenever life hits us. A good way to release any tension or stress by winding down to the sounds of calming waves and rain. Built with React using Expo audio and video playback.",
+    image:
+      "https://firebasestorage.googleapis.com/v0/b/angularportfolio-71eaa.appspot.com/o/meditationapp.png?alt=media&token=27d1bd5e-ccf6-4393-8cfd-af8e2e95c7ec",
+    tag: ["All", "Mobile"],
+    gitUrl: "",
+    previewUrl: "/",
+  },
 ];
