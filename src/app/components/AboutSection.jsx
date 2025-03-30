@@ -41,6 +41,9 @@ const TAB_DATA = [
     content: (
       <ul className="list-disc pl-2">
         <h5>B.S. Computer Science, Kennesaw State University</h5>
+        <p>
+          My <Link href="/journey">Journey</Link>
+        </p>
         <br></br>
         <li>
           <b>Publication</b> - Intelligent-Checkout System Research Paper.

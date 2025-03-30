@@ -118,7 +118,7 @@ export const projectsData = [
     image:
       "https://firebasestorage.googleapis.com/v0/b/angularportfolio-71eaa.appspot.com/o/meditationapp.png?alt=media&token=27d1bd5e-ccf6-4393-8cfd-af8e2e95c7ec",
     tag: ["All", "Mobile"],
-    gitUrl: "",
+    gitUrl: "https://github.com/jamesb97/ExpoMeditation",
     previewUrl: "/",
   },
 ];
