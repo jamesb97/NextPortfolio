@@ -46,7 +46,8 @@ const TAB_DATA = [
         </p>
         <br></br>
         <li>
-          <b>Publication</b> - Intelligent-Checkout System Research Paper.
+          <b>Publication</b> - Intelligent-Checkout System Research{" "}
+          <Link href="https://bit.ly/ChecSys">Paper</Link>.
         </li>
         <li>
           <b>Capstone Project</b> - Led a 2-member team of highly motivated
