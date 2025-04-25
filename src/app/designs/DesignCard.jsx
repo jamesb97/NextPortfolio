@@ -1,10 +1,17 @@
-import Image from "next/image";
+"use client";
 //import { motion } from "framer-motion";
 
 const DesignCard = ({ title, description, imageUrl, link }) => {
   return (
     <div className="bg-white rounded-xl shadow-md overflow-hidden relative group h-52 md:h-72">
-      <Image
+      {/* <Image
+        src={imageUrl}
+        alt={title}
+        width={200}
+        height={200}
+        className="object-cover w-full h-40"
+      /> */}
+      <img
         src={imageUrl}
         alt={title}
         width={200}
