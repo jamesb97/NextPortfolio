@@ -3,6 +3,7 @@ import React, { useState } from "react";
 import { RiLinkedinBoxFill } from "react-icons/ri";
 import { FaSquareYoutube } from "react-icons/fa6";
 import { FaGithub } from "react-icons/fa";
+import { FaSpotify } from "react-icons/fa";
 import Link from "next/link";
 //import Image from "next/image";
 
@@ -65,6 +66,9 @@ const EmailSection = () => {
           </Link>
           <Link href="https://youtube.com/zdravko6t5">
             <FaSquareYoutube className="w-10 h-10" alt="YouTube Icon" />
+          </Link>
+          <Link href="https://open.spotify.com/show/0VJFqzI0NBqVr5T1DqA8Y6?si=627f9bf83ace4d60">
+            <FaSpotify className="w-10 h-10" alt="Spotify Icon" />
           </Link>
         </div>
       </div>
