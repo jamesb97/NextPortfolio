@@ -117,7 +117,7 @@ const AboutSection = () => {
             Generative AI technologies and setting up development environments
             with Jenkins for a collaborative session and growth. Be sure to
             check out some of my <Link href="/designs">designs</Link>{" "}
-            <Link href="https://angulardesigns-aaa7c.web.app/">here.</Link>
+            <Link href="https://angulardesigns-aaa7c.web.app/">here. </Link>
             Check out my interview on the impact of Generative{" "}
             <Link href="https://www.youtube.com/watch?v=jvQqcYKYAIQ">
               AI
