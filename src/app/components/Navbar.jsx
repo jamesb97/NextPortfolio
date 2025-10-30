@@ -22,6 +22,10 @@ const navLinks = [
     title: "Blog",
     path: "https://tailwind-blog-peach.vercel.app/",
   },
+  {
+    title: "Posts",
+    path: "#posts",
+  },
 ];
 
 const Navbar = () => {
