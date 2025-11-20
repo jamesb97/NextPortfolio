@@ -121,4 +121,15 @@ export const projectsData = [
     gitUrl: "https://github.com/jamesb97/ExpoMeditation",
     previewUrl: "/",
   },
+  {
+    id: 12,
+    title: "Price Tracker",
+    description:
+      "A web application that tracks the price of products from Amazon and shows users when the price changes with visual graph representation powered by Google Gemini. Built with React for the frontend and Node.JS for the backend.",
+    image:
+      "https://firebasestorage.googleapis.com/v0/b/angularportfolio-71eaa.appspot.com/o/price-tracker.png?alt=media&token=adb6ed57-31c3-4710-b69f-63bfe796b1b3",
+    tag: ["All", "Web"],
+    gitUrl: "https://github.com/jamesb97/PriceTracker",
+    previewUrl: "/",
+  },
 ];
