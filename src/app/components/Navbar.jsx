@@ -26,6 +26,10 @@ const navLinks = [
     title: "Posts",
     path: "#posts",
   },
+  {
+    title: "Videos",
+    path: "#videos",
+  },
 ];
 
 const Navbar = () => {
