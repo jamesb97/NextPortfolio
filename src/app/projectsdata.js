@@ -132,4 +132,15 @@ export const projectsData = [
     gitUrl: "https://github.com/jamesb97/PriceTracker",
     previewUrl: "/",
   },
+  {
+    id: 13,
+    title: "Job Fit Analyzer",
+    description:
+      "A web application that analyzes a user's resume and compares it to a job description to determine how well the user fits the job requirements. Built with React for the frontend and Node.JS for the backend, including analyzing visualization with Lovable AI.",
+    image:
+      "https://firebasestorage.googleapis.com/v0/b/angularportfolio-71eaa.appspot.com/o/job-fitanalyzer.png?alt=media&token=41e694e3-490d-4fdd-867c-4c74694a6951",
+    tag: ["All", "Web"],
+    gitUrl: "https://github.com/jamesb97/LinkedInJobAnalysis",
+    previewUrl: "https://job-analyzerfit.lovable.app",
+  },
 ];
