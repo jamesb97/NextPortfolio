@@ -130,4 +130,14 @@ export const projectsData = [
     gitUrl: "https://github.com/jamesb97/LinkedInJobAnalysis",
     previewUrl: "https://job-analyzerfit.lovable.app",
   },
+  {
+    id: 14,
+    title: "React Beach Resort",
+    description:
+      "A web application that allows users to book a stay at a popular destination beach resort guide to help users plan their perfect beach getaway. Built with React for the frontend and Node.JS for the backend.",
+    image: "https://storage.googleapis.com/zdravko6t5.site/11.png",
+    tag: ["All", "Web"],
+    gitUrl: "https://github.com/jamesb97/BeachResort",
+    previewUrl: "https://reactbeachresort17.netlify.app/",
+  },
 ];
