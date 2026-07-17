@@ -4,9 +4,10 @@
   "private": true,
   "scripts": {
     "dev": "next dev",
+    "clean": "rm -rf .next out",
+    "prebuild": "rm -rf out",
     "build": "next build",
     "start": "next start",
-    "export": "next export",
     "lint": "next lint"
   },
   "dependencies": {
