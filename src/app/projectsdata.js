@@ -4,8 +4,7 @@ export const projectsData = [
     title: "AI Trading Bot",
     description:
       "Stock market trading prediction bot built with Python that predicts when to buy and sell a stock based on market evaluations, past trading data and grows smarter over time.",
-    image:
-      "https://firebasestorage.googleapis.com/v0/b/angularportfolio-71eaa.appspot.com/o/aitradingbot.png?alt=media&token=30fcdba6-c2f6-488c-bf20-9563376ca3d2",
+    image: "https://storage.googleapis.com/zdravko6t5.site/aitradingbot.png",
     tag: ["All", "App"],
     gitUrl: "https://github.com/jamesb97/AlgorithmicTrading",
     previewUrl:
@@ -16,8 +15,7 @@ export const projectsData = [
     title: "Autonomous Sentry Gun",
     description:
       "Motion detection and object recognition sentry gun capable of detecting objects in real time using OpenCV, Python, C++, and Raspberry Pi.",
-    image:
-      "https://firebasestorage.googleapis.com/v0/b/angularportfolio-71eaa.appspot.com/o/0.jpg?alt=media&token=5ebe5cd1-cb09-4b43-8ca5-dd2c366119a1",
+    image: "https://storage.googleapis.com/zdravko6t5.site/0.jpg",
     tag: ["All", "App"],
     gitUrl: "https://github.com/jamesb97/AutonomousSentryGun",
     previewUrl: "/",
@@ -27,8 +25,7 @@ export const projectsData = [
     title: "React Recipe Book",
     description:
       "Online recipe tool, curated with dozen of useful recipes for anyone looking to make their next meal. Created using React and Vite and utilizes the Edamame API to communicate with the recipes.",
-    image:
-      "https://firebasestorage.googleapis.com/v0/b/angularportfolio-71eaa.appspot.com/o/6.png?alt=media&token=9bb02ad3-cc48-4e84-87d8-effe84986d2d",
+    image: "https://storage.googleapis.com/zdravko6t5.site/6.png",
     tag: ["All", "Web"],
     gitUrl: "/",
     previewUrl: "https://infallible-hamilton-a8e2a2.netlify.app/",
@@ -38,8 +35,7 @@ export const projectsData = [
     title: "Netflix Clone",
     description:
       "A redesigned version of Netflix created with Firebase and React.",
-    image:
-      "https://firebasestorage.googleapis.com/v0/b/angularportfolio-71eaa.appspot.com/o/5.png?alt=media&token=93411691-b535-44f2-bd7a-2e5ada0f4e52",
+    image: "https://storage.googleapis.com/zdravko6t5.site/5.png",
     tag: ["All", "Web"],
     gitUrl: "/",
     previewUrl: "https://netflix-clone-3b31f.firebaseapp.com/",
@@ -49,8 +45,7 @@ export const projectsData = [
     title: "Shortest Path Algorithm",
     description:
       "Website that uses React for the front-end and Node.JS for the backend to visualize the first node and determine the shortest path needed to take in order to get to the second node using Dijkstra's Algorithm.",
-    image:
-      "https://firebasestorage.googleapis.com/v0/b/angularportfolio-71eaa.appspot.com/o/7.png?alt=media&token=9d2be112-d0c0-4548-84ff-17e4ae6bc54b",
+    image: "https://storage.googleapis.com/zdravko6t5.site/7.png",
     tag: ["All", "Web"],
     gitUrl: "/",
     previewUrl: "https://determined-lamarr-304345.netlify.app/",
@@ -60,8 +55,7 @@ export const projectsData = [
     title: "News Scraper",
     description:
       "An intuitive Node.JS application that scrapes recent headlines and data from a website and then writes them to a CSV file.",
-    image:
-      "https://firebasestorage.googleapis.com/v0/b/angularportfolio-71eaa.appspot.com/o/8.png?alt=media&token=8eda1abb-d1cb-4c25-ac62-22175863d024",
+    image: "https://storage.googleapis.com/zdravko6t5.site/4.png",
     tag: ["All", "App"],
     gitUrl: "https://github.com/jamesb97/NewsScrape",
     previewUrl: "/",
@@ -71,8 +65,7 @@ export const projectsData = [
     title: "Intelligent Checkout System",
     description:
       "A smart checkout system geared towards a faster and seamless checkout experience at a local convenient stores by utilizing the latest machine learning libraries including OpenCV, PyTorch, NVIDIA CUDA installed on the NVIDIA Jetson Nano.",
-    image:
-      "https://firebasestorage.googleapis.com/v0/b/angularportfolio-71eaa.appspot.com/o/1.jpg?alt=media&token=e0591058-c8f7-42dd-b712-58ae95534df3",
+    image: "https://storage.googleapis.com/zdravko6t5.site/1.jpg",
     tag: ["All", "App"],
     gitUrl: "https://github.com/jiaming-cs/Intelligent-Checkout-System",
     previewUrl: "https://bit.ly/ChecSys",
@@ -82,8 +75,7 @@ export const projectsData = [
     title: "Spotify Clone",
     description:
       "A remastered version of Spotify for the web created using React, React Redux, React Hooks, and Spotify API.",
-    image:
-      "https://firebasestorage.googleapis.com/v0/b/angularportfolio-71eaa.appspot.com/o/2.png?alt=media&token=c35c1f9f-46d1-426e-b2e1-7d81c512cb72",
+    image: "https://storage.googleapis.com/zdravko6t5.site/2.png",
     tag: ["All", "Web"],
     gitUrl: "/",
     previewUrl: "https://updateprofile-valtqe.web.app/",
@@ -93,8 +85,7 @@ export const projectsData = [
     title: "PDF Scanner",
     description:
       "Portable Android PDF Scanner made with React that uses OpenCV Machine Vision library to capture the document and adjustment.",
-    image:
-      "https://firebasestorage.googleapis.com/v0/b/angularportfolio-71eaa.appspot.com/o/10.png?alt=media&token=64af005d-d79b-4971-96fa-09c708f2526e",
+    image: "https://storage.googleapis.com/zdravko6t5.site/10.png",
     tag: ["All", "Mobile"],
     gitUrl: "https://github.com/jamesb97/PDFScanner",
     previewUrl: "https://vimeo.com/605873299",
@@ -104,8 +95,7 @@ export const projectsData = [
     title: "Next.JS Shopify",
     description:
       "Online E-commerce website targeted for sellers looking to sell their latest fashion trends and accessories. Built with the latest Next.JS libraries, Tailwind.CSS, and TypeScript.",
-    image:
-      "https://firebasestorage.googleapis.com/v0/b/angularportfolio-71eaa.appspot.com/o/nextjshopify.png?alt=media&token=17010834-557b-4814-bfe7-728c9dd70c69",
+    image: "https://storage.googleapis.com/zdravko6t5.site/nextjshopify.png",
     tag: ["All", "Web"],
     gitUrl: "/",
     previewUrl: "https://nextjs-shopify-seven.vercel.app/",
@@ -115,8 +105,7 @@ export const projectsData = [
     title: "Meditation App",
     description:
       "A mobile app for meditating whenever life hits us. A good way to release any tension or stress by winding down to the sounds of calming waves and rain. Built with React using Expo audio and video playback.",
-    image:
-      "https://firebasestorage.googleapis.com/v0/b/angularportfolio-71eaa.appspot.com/o/meditationapp.png?alt=media&token=27d1bd5e-ccf6-4393-8cfd-af8e2e95c7ec",
+    image: "https://storage.googleapis.com/zdravko6t5.site/meditationapp.png",
     tag: ["All", "Mobile"],
     gitUrl: "https://github.com/jamesb97/ExpoMeditation",
     previewUrl: "/",
@@ -126,8 +115,7 @@ export const projectsData = [
     title: "Price Tracker",
     description:
       "A web application that tracks the price of products from Amazon and shows users when the price changes with visual graph representation powered by Google Gemini. Built with React for the frontend and Node.JS for the backend.",
-    image:
-      "https://firebasestorage.googleapis.com/v0/b/angularportfolio-71eaa.appspot.com/o/price-tracker.png?alt=media&token=adb6ed57-31c3-4710-b69f-63bfe796b1b3",
+    image: "https://storage.googleapis.com/zdravko6t5.site/price-tracker.png",
     tag: ["All", "Web"],
     gitUrl: "https://github.com/jamesb97/PriceTracker",
     previewUrl: "/",
@@ -137,8 +125,7 @@ export const projectsData = [
     title: "Job Fit Analyzer",
     description:
       "A web application that analyzes a user's resume and compares it to a job description to determine how well the user fits the job requirements. Built with React for the frontend and Node.JS for the backend, including analyzing visualization with Lovable AI.",
-    image:
-      "https://firebasestorage.googleapis.com/v0/b/angularportfolio-71eaa.appspot.com/o/job-fitanalyzer.png?alt=media&token=41e694e3-490d-4fdd-867c-4c74694a6951",
+    image: "https://storage.googleapis.com/zdravko6t5.site/job-fitanalyzer.png",
     tag: ["All", "Web"],
     gitUrl: "https://github.com/jamesb97/LinkedInJobAnalysis",
     previewUrl: "https://job-analyzerfit.lovable.app",
