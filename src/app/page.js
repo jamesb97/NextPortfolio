@@ -7,6 +7,7 @@ import Footer from "./components/Footer";
 import AchievementsSection from "./components/AchievementsSection";
 import BlogsSection from "./components/BlogsSection";
 import VideosSection from "./components/VideosSection";
+import Testimonials from "./components/Testimonials";
 
 export default function Home() {
   return (
@@ -19,6 +20,7 @@ export default function Home() {
         <ProjectsSection />
         <BlogsSection />
         <VideosSection />
+        <Testimonials />
         <EmailSection />
       </div>
       <Footer />
